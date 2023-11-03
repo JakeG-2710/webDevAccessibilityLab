@@ -75,4 +75,6 @@ footer {
 .resize-img{
   width: 100%;
   height: auto;
-}
+}.left-float{
+  mask-image: page;
+ }
