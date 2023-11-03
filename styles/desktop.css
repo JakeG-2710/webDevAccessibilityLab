@@ -78,7 +78,6 @@ tr:nth-child(odd) {
   background-color: #ccc;
 }
 /* Form Styling Needs Adding */
-.resize-img{
-  width: 100%;
-  height: auto;
+.left-float{
+ border-image: auto;
 }
