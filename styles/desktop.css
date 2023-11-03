@@ -79,5 +79,5 @@ tr:nth-child(odd) {
 }
 /* Form Styling Needs Adding */
 .left-float{
- border-image: auto;
+ border-image:0px;
 }
